@@ -1,0 +1,100 @@
+[
+  {
+    "id": "dia-educacion-tecnica-2026",
+    "fecha": "2026-11-15",
+    "categoria": "Efemérides",
+    "titulo": "15 de noviembre: Día de la Educación Técnica",
+    "resumen": "Celebramos la formación técnica y el trabajo de estudiantes y docentes que aprenden, crean y resuelven problemas mediante proyectos y experiencias reales.",
+    "imagen": "img/proyectos/arduino-07.jpg",
+    "enlace": "proyectos.html",
+    "textoEnlace": "Conocer nuestros proyectos",
+    "destacada": true,
+    "estado": "publicada"
+  },
+  {
+    "id": "trimestrales-2026",
+    "fecha": "2026-11-17",
+    "categoria": "Calendario escolar",
+    "titulo": "Evaluaciones trimestrales del tercer trimestre",
+    "resumen": "Las evaluaciones trimestrales comienzan el 17 de noviembre de 2026. Las fechas de cada materia y curso deben consultarse en el cronograma institucional correspondiente.",
+    "imagen": "img/fachada-et20.jpg",
+    "enlace": "contacto.html",
+    "textoEnlace": "Consultar a la institución",
+    "destacada": true,
+    "estado": "publicada"
+  },
+  {
+    "id": "puertas-abiertas-2026",
+    "fecha": "2026-11-27",
+    "categoria": "Encuentros",
+    "titulo": "Jornada de Puertas Abiertas 2026",
+    "resumen": "El viernes 27 de noviembre compartiremos experiencias, aprendizajes y proyectos de nuestros estudiantes. El horario se comunicará por los canales oficiales.",
+    "imagen": "img/proyectos/arduino-08.jpg",
+    "enlace": "proyectos.html",
+    "textoEnlace": "Ver los proyectos",
+    "destacada": true,
+    "estado": "publicada"
+  },
+  {
+    "id": "colacion-2026",
+    "fecha": "2026-12-02",
+    "categoria": "Actos institucionales",
+    "titulo": "Acto de Egresados 2026",
+    "resumen": "El acto de egresados está previsto para el miércoles 2 de diciembre de 2026, a las 19:00, en UPrO. Consultá las comunicaciones oficiales ante posibles actualizaciones.",
+    "imagen": "img/comunidad-reconocimientos.jpg",
+    "enlace": "contacto.html",
+    "textoEnlace": "Canales institucionales",
+    "destacada": true,
+    "estado": "publicada"
+  },
+  {
+    "id": "previos-2026",
+    "fecha": "2026-12-03",
+    "fechaFin": "2026-12-09",
+    "categoria": "Calendario escolar",
+    "titulo": "Mesas de exámenes previos",
+    "resumen": "Período previsto del 3 al 9 de diciembre de 2026. La distribución de materias, horarios y turnos se informa mediante el cronograma oficial.",
+    "imagen": "img/fachada-et20.jpg",
+    "enlace": "contacto.html",
+    "textoEnlace": "Consultar cronograma",
+    "destacada": false,
+    "estado": "publicada"
+  },
+  {
+    "id": "regulares-2026",
+    "fecha": "2026-12-10",
+    "fechaFin": "2026-12-16",
+    "categoria": "Calendario escolar",
+    "titulo": "Mesas de exámenes regulares y finales",
+    "resumen": "Período previsto del 10 al 16 de diciembre de 2026. Verificá días, materias y horarios en las comunicaciones de la escuela.",
+    "imagen": "img/fachada-et20.jpg",
+    "enlace": "contacto.html",
+    "textoEnlace": "Consultar cronograma",
+    "destacada": false,
+    "estado": "publicada"
+  },
+  {
+    "id": "arduino-2026",
+    "fecha": "2026-11-13",
+    "categoria": "Proyectos",
+    "titulo": "Proyectos con Arduino: ideas que cobran vida",
+    "resumen": "Conocé la galería de prototipos desarrollados por estudiantes, con fotografías y videos auténticos de sus experiencias.",
+    "imagen": "img/proyectos/arduino-01.jpg",
+    "enlace": "proyectos.html#galeria-arduino",
+    "textoEnlace": "Ver videos",
+    "destacada": false,
+    "estado": "publicada"
+  },
+  {
+    "id": "web-2026",
+    "fecha": "2026-11-12",
+    "categoria": "Innovación educativa",
+    "titulo": "Nuestra página institucional, un proyecto compartido",
+    "resumen": "El sitio integra trabajos realizados por estudiantes de 4.º y 7.º año para mostrar la escuela que somos hoy.",
+    "imagen": "img/fachada-et20.jpg",
+    "enlace": "proyectos.html",
+    "textoEnlace": "Conocer más",
+    "destacada": false,
+    "estado": "publicada"
+  }
+]
